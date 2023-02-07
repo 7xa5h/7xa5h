@@ -34,7 +34,7 @@
 
 <h2 align="center">🤔 More Info</h2>
 <p align=center >
-  <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=xash4492" />
+  <a href=>
+    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xash4492"/>
   </a>
 </p>
