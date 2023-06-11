@@ -4,7 +4,7 @@
     i use deno.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=xash4492" alt="https://github.com/xash4492" />
+  <img src="https://komarev.com/ghpvc/?username=7xa5h&style=for-the-badge" alt="https://github.com/7xa5h" />
 </p>
 
 <hr>
@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-e43717?style=for-the-badge&logo=rust&logoColor=white"/>
 <hr>
 
 </p>
