@@ -26,6 +26,6 @@
 <h2 align="center">🤔 More Info</h2>
 <p align=center >
   <a href=>
-    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xa5h"/>
+    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=7xa5h"/>
   </a>
 </p>
