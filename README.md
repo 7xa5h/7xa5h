@@ -1,26 +1,31 @@
-<h2 align="center">xash</h2>
-<p align="center">
-  <samp> i use deno. </samp>
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=7xa5h&style=for-the-badge" alt="https://github.com/7xa5h" />
-</p>
-<hr>
-<h2 align="center">🔭 Experiences</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-e43717?style=for-the-badge&logo=rust&logoColor=white" />
-  <hr>
-</p>
-<h2 align="center">🤔 More Info</h2>
-<p align=center>
-  <a href=>
-    <img width=420 height=165 src="https://github-readme-streak-stats.herokuapp.com?user=7xa5h&theme=github-light&hide_border=true&mode=weekly" />
-  </a>
-</p>
+# Hey 👋
+<img src="https://komarev.com/ghpvc/?username=7xa5h&style=flat-square" alt="7xa5h" />
+
+My name's 7xa5h, also known as *xash*, I am a Deno developer/programmer as well as a programming student.
+
+Although I do not frequently share content on my GitHub account, I occasionally showcase various projects. 
+In addition, I enjoy creating Discord bots and developing simple websites for recreational purposes. I am also 
+currently working on a project called [volta], which aims to streamline and enhance your online experience with 
+Discord bots, tools, and many more.
+
+For communication, I am primarily active on Discord. Should you wish to contact me, I recommend joining [my Discord server]
+or reaching out to me via [Discord].
+
+#### Statistical Overview
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=7xa5h&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=7xa5h&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000" />
+    </td>
+  </tr>
+</table>
+
+###### <sup><em>To check out my informal website, <a href="https://7xa5h.github.io">click here</a>.</em></sup>
+
+[Discord]: https://discord.com/users/825375910671810571
+[volta]: https://github.com/prjvolta
+[my Discord server]: https://dsc.gg/prjvolta
