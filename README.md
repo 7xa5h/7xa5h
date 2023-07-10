@@ -1,5 +1,5 @@
 # Hey 👋
-<img src="https://komarev.com/ghpvc/?username=7xa5h&style=flat-square" alt="7xa5h" />
+<img src="https://komarev.com/ghpvc/?username=7xa5h" alt="7xa5h" />
 
 My name's 7xa5h, also known as *xash*, I am a Deno developer/programmer as well as a programming student.
 
