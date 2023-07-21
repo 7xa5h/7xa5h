@@ -3,9 +3,9 @@
 
 My name's 7xa5h, also known as *xash*, I am a Deno developer/programmer as well as a programming student.
 
-Although I do not frequently share content on my GitHub account, I occasionally showcase 
+Although I don't frequently share content on my GitHub account, I occasionally showcase 
 various projects. In addition, I enjoy creating Discord bots and developing simple websites
-for recreational purposes. I am also currently working on a project called [volta], which aims
+for fun. I am also currently working on a project called [volta], which aims
 to streamline and enhance your online experience by providing you with Discord bots, tools, and many more.
 
 For communication, I am primarily active on Discord. Should you wish to contact me, I recommend 
