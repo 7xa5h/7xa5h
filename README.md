@@ -24,8 +24,6 @@ joining [my Discord server] or reaching out to me via [Discord].
   </tr>
 </table>
 
-###### <sup><em>To check out my informal website, <a href="https://7xa5h.github.io">click here</a>.</em></sup>
-
 [Discord]: https://discord.com/users/825375910671810571
 [volta]: https://github.com/prjvolta
 [my Discord server]: https://dsc.gg/prjvolta
