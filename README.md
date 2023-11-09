@@ -1,8 +1,8 @@
-# Hey 👋
+# Hi! 👋
 
 My name's xash, also known as *7xa5h*, and I'm a Deno developer/programmer as well as a student and "designer".
 
-Although I don't usually share content on my GitHub, I sometimes showcase some projects. I also enjoy creating Discord bots and making simple websites for fun.
+I don't usually share content on my GitHub, but I sometimes showcase some projects. I also enjoy creating Discord bots and making simple websites for fun.
 
 For communication, I am usually active on Discord. So to contact me, I recommend or reaching out to me via [Discord].
 
