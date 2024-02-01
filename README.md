@@ -1,6 +1,6 @@
 # Hi! 👋
 
-My name's xash, also known as *7xa5h*, and I'm a Deno developer/programmer as well as a student and "designer".
+My name's xash, also known as *7xa5h*, and I'm a Deno developer/programmer as well as a student.
 
 I don't usually share content on my GitHub, but I sometimes showcase some projects. I also enjoy creating Discord bots and making simple websites for fun.
 
